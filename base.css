@@ -1,0 +1,12 @@
+.bold {
+  font-weight: 900;
+}
+
+a {
+  color: #444;
+  font-weight: 900;
+}
+
+.hoverable:hover {
+  color: rgb(241, 95, 96);
+}

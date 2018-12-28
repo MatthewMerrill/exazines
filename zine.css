@@ -1,0 +1,29 @@
+html, body {
+  background-color: rgb(241, 95, 96);
+  width: 100%;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+#zine-content {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+img#page-1 {
+  margin-left: 25%;
+}
+
+img.zine-page {
+  display: block;
+  width: 50%;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
