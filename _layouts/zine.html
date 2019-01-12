@@ -3,12 +3,15 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="zine.css">
-    <body>
-      <div id="zine-content">
-        {% for pageNum in (1..page.numPages) %}
-          <img id="page-{{pageNum}}" class="zine-page" src="{{page.zineDir}}/page-{{pageNum}}.jpg" />
-        {% endfor %}
-      </div>
-    </body>
+    <title>{{page.title}} /// EXAZINES</title>
+    <style>html { background: {{page.bkgd}}; }</style>
+  </head>
+  <body>
+    <div id="zine-content">
+      {% for pageNum in (1..page.numPages) %}
+        <img id="page-{{pageNum}}" class="zine-page" src="{{page.zineDir}}/page-{{pageNum}}.jpg" />
+      {% endfor %}
+    </div>
+  </body>
 </html>
 

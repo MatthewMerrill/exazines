@@ -13,6 +13,7 @@ layout: base
 +------------------------------------------------------------------------------+
 |                                                                              |
 <a href="/zine01.html" class="hoverable">&gt;&gt;&gt; ZINE 01: TRASH WORLD NEWS: the EXA issue                                 &lt;&lt;&lt;</a>
+<a href="/zine02.html" class="hoverable">&gt;&gt;&gt; ZINE 02: TRASH WORLD NEWS: the GAMES issue                               &lt;&lt;&lt;</a>
 >>>    MORE ON THE WAY                                                       <<<
 |                                                                              |
 +------------------------------------------------------------------------------+
